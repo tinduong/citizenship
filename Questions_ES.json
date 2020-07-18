@@ -1,0 +1,1710 @@
+[
+  {
+    "QuestionDescription": "¿Cuál es la ley suprema de la nación?",
+    "QuestionNumber": 1,
+    "Answers": [
+      {
+        "AnswerText": "la Constitución",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué hace la Constitución?",
+    "QuestionNumber": 2,
+    "Answers": [
+      {
+        "AnswerText": "establece el gobierno",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "define el gobierno",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "protege los derechos básicos de los ciudadanos estadounidenses",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Las primeras tres palabras de la Constitución contienen la idea del autogobierno (de que el pueblo se gobierna a sí mismo). ¿Cuáles son estas palabras?",
+    "QuestionNumber": 3,
+    "Answers": [
+      {
+        "AnswerText": "Nosotros, el pueblo",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué es una enmienda?",
+    "QuestionNumber": 4,
+    "Answers": [
+      {
+        "AnswerText": "un cambio (a la Constitución)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "una adición (a la Constitución)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Con qué nombre se conocen las primeras diez enmiendas a la Constitución?",
+    "QuestionNumber": 5,
+    "Answers": [
+      {
+        "AnswerText": "la Carta de Derechos",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es un derecho o libertad que la Primera Enmienda garantiza?*",
+    "QuestionNumber": 6,
+    "Answers": [
+      {
+        "AnswerText": "expresión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "religión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "reunión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "prensa",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "peticionar al gobierno",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuántas enmiendas tiene la Constitución?",
+    "QuestionNumber": 7,
+    "Answers": [
+      {
+        "AnswerText": "veintisiete (27)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué hizo la Declaración de Independencia?",
+    "QuestionNumber": 8,
+    "Answers": [
+      {
+        "AnswerText": "anunció nuestra independencia (de Gran Bretaña)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "declaró nuestra independencia (de Gran Bretaña)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "dijo que los Estados Unidos se independizó (de Gran Bretaña)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuáles son dos derechos en la Declaración de la Independencia?",
+    "QuestionNumber": 9,
+    "Answers": [
+      {
+        "AnswerText": "la vida",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la libertad",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la búsqueda de la felicidad",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿En qué consiste la libertad de religión?",
+    "QuestionNumber": 10,
+    "Answers": [
+      {
+        "AnswerText": "Se puede practicar cualquier religión o no practicar ninguna.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es el sistema económico de los Estados Unidos?*",
+    "QuestionNumber": 11,
+    "Answers": [
+      {
+        "AnswerText": "economía capitalista",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "economía de mercado",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿En qué consiste el “estado de derecho” (ley y orden)?",
+    "QuestionNumber": 12,
+    "Answers": [
+      {
+        "AnswerText": "Todos deben obedecer la ley",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Los líderes deben obedecer la ley",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "El gobierno debe obedecer la ley",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nadie está por encima de la ley",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nombre una rama o parte del gobierno.*",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Congreso",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Poder legislativo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Presidente",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Poder ejecutivo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Los tribunales",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Poder judicial",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué es lo que evita que una rama del gobierno se vuelva demasiado poderosa?",
+    "QuestionNumber": 13,
+    "Answers": [
+      {
+        "AnswerText": "pesos y contrapesos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "separación de poderes",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién está a cargo de la rama ejecutiva?",
+    "QuestionNumber": 14,
+    "Answers": [
+      {
+        "AnswerText": "el Presidente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién crea las leyes federales?",
+    "QuestionNumber": 15,
+    "Answers": [
+      {
+        "AnswerText": "el Congreso",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Senado y la Cámara (de Representantes)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la legislatura (nacional o de los Estados Unidos)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuáles son las dos partes que integran el Congreso de los Estados Unidos?*",
+    "QuestionNumber": 16,
+    "Answers": [
+      {
+        "AnswerText": "el Senado y la Cámara (de Representantes)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuántos senadores de los Estados Unidos hay?",
+    "QuestionNumber": 17,
+    "Answers": [
+      {
+        "AnswerText": "cien (100)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿De cuántos años es el término de elección de un senador de los Estados Unidos?",
+    "QuestionNumber": 18,
+    "Answers": [
+      {
+        "AnswerText": "seis (6)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nombre a uno de los senadores actuales del estado donde usted vive.*",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Las respuestas variarán. [Los residentes del Distrito de Columbia y los territorios de los Estados Unidos deberán contestar que D.C. (o territorio en donde vive el solicitante) no cuenta con senadores a nivel nacional].",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuántos miembros votantes tiene la Cámara de Representantes?",
+    "QuestionNumber": 19,
+    "Answers": [
+      {
+        "AnswerText": "cuatrocientos treinta y cinco (435)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿De cuántos años es el término de elección de un representante de los Estados Unidos?",
+    "QuestionNumber": 20,
+    "Answers": [
+      {
+        "AnswerText": "dos (2)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Dé el nombre de su representante a nivel nacional.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Las respuestas variarán. [Los residentes de territorios con delegados no votantes o los comisionados residentes pueden decir el nombre de dicho delegado o comisionado. Una respuesta que indica que el territorio no tiene representantes votantes en el Congreso también es aceptable].",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿A quiénes representa un senador de los Estados Unidos?",
+    "QuestionNumber": 21,
+    "Answers": [
+      {
+        "AnswerText": "a todas las personas del estado",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Por qué tienen algunos estados más representantes que otros?",
+    "QuestionNumber": 22,
+    "Answers": [
+      {
+        "AnswerText": "(debido a) la población del estado",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(debido a que) tienen más gente",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(debido a que) algunos estados tienen más gente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿De cuántos años es el término de elección de un presidente?",
+    "QuestionNumber": 23,
+    "Answers": [
+      {
+        "AnswerText": "cuatro (4)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿En qué mes votamos por un nuevo presidente?*",
+    "QuestionNumber": 24,
+    "Answers": [
+      {
+        "AnswerText": "noviembre",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cómo se llama el actual Presidente de los Estados Unidos?*",
+    "QuestionNumber": 25,
+    "Answers": [
+      {
+        "AnswerText": "Visite uscis.gov/es/ciudadania/actualizacionesalexamen para saber el nombre del Presidente de Estados Unidos.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cómo se llama el actual Vicepresidente de los Estados Unidos?",
+    "QuestionNumber": 26,
+    "Answers": [
+      {
+        "AnswerText": "Visite uscis.gov/es/ciudadania/actualizacionesalexamen para saber el nombre del Vice Presidente de Estados Unidos.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Si el Presidente ya no puede cumplir sus funciones, ¿quién se convierte en Presidente?",
+    "QuestionNumber": 27,
+    "Answers": [
+      {
+        "AnswerText": "el Vicepresidente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Si tanto el Presidente como el Vicepresidente ya no pueden cumplir sus funciones, ¿quién se convierte en Presidente?",
+    "QuestionNumber": 28,
+    "Answers": [
+      {
+        "AnswerText": "el Presidente de la Cámara de Representantes",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién es el Comandante en Jefe de las Fuerzas Armadas?",
+    "QuestionNumber": 29,
+    "Answers": [
+      {
+        "AnswerText": "el Presidente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién firma los proyectos de ley para convertirlos en ley?",
+    "QuestionNumber": 30,
+    "Answers": [
+      {
+        "AnswerText": "el Presidente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién veta los proyectos de ley?",
+    "QuestionNumber": 31,
+    "Answers": [
+      {
+        "AnswerText": "el Presidente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué hace el Gabinete del Presidente?",
+    "QuestionNumber": 32,
+    "Answers": [
+      {
+        "AnswerText": "asesora al Presidente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuáles son dos puestos a nivel de gabinete?",
+    "QuestionNumber": 33,
+    "Answers": [
+      {
+        "AnswerText": "Secretario de Agricultura",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Comercio",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Defensa",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Educación",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Energía",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Salud y Servicios Humanos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Seguridad Nacional",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Vivienda y Desarrollo Urbano",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario del Interior",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario del Trabajo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Estado",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Transporte",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario del Tesoro",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Secretario de Asuntos de los Veteranos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Procurador General",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Vicepresidente",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué hace la rama judicial?",
+    "QuestionNumber": 34,
+    "Answers": [
+      {
+        "AnswerText": "revisa las leyes",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "explica las leyes",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "resuelve disputas (desacuerdos)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "decide si una ley va en contra de la Constitución",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es el tribunal más alto de los Estados Unidos?",
+    "QuestionNumber": 35,
+    "Answers": [
+      {
+        "AnswerText": "la Corte Suprema",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuántos jueces hay en la Corte Suprema?",
+    "QuestionNumber": 36,
+    "Answers": [
+      {
+        "AnswerText": "Visite uscis.gov/es/ciudadania/actualizacionesalexamen para saber el número de jueces en la Corte Suprema.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién es el presidente actual de la Corte Suprema de los Estados Unidos?",
+    "QuestionNumber": 37,
+    "Answers": [
+      {
+        "AnswerText": "Visite uscis.gov/es/ciudadania/actualizacionesalexamen para saber el nombre del Presidente del Tribunal Supremo de Estados Unidos.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "De acuerdo a nuestra Constitución, algunos poderes pertenecen al gobierno federal. ¿Cuál es un poder del gobierno federal?",
+    "QuestionNumber": 38,
+    "Answers": [
+      {
+        "AnswerText": "imprimir dinero",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "declarar la guerra",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "crear un ejército",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "suscribir tratados",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "De acuerdo a nuestra Constitución, algunos poderes pertenecen a los estados. ¿Cuál es un poder de los estados?",
+    "QuestionNumber": 39,
+    "Answers": [
+      {
+        "AnswerText": "proveer escuelas y educación",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "proveer protección (policía)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "proveer seguridad (cuerpos de bomberos)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "conceder licencias de conducir",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "aprobar la zonificación y uso de la tierra",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién es el gobernador actual de su estado?",
+    "QuestionNumber": 40,
+    "Answers": [
+      {
+        "AnswerText": "Las respuestas variarán. [Los residentes del Distrito de Columbia deben decir “no tenemos gobernador”].",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es la capital de su estado?*",
+    "QuestionNumber": 41,
+    "Answers": [
+      {
+        "AnswerText": "Las respuestas variarán. [Los residentes del Distrito de Columbia deben contestar que el D.C. no es estado y que no tiene capital. Los residentes de los territorios de los Estados Unidos deben dar el nombre de la capital del territorio].",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuáles son los dos principales partidos políticos de los Estados Unidos?*",
+    "QuestionNumber": 42,
+    "Answers": [
+      {
+        "AnswerText": "Demócrata y Republicano",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es el partido político del Presidente actual?",
+    "QuestionNumber": 43,
+    "Answers": [
+      {
+        "AnswerText": "Visite uscis.gov/es/ciudadania/actualizacionesalexamen para saber el partido político al que pertenece el Presidente de Estados Unidos.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cómo se llama el Presidente actual de la Cámara de Representantes?",
+    "QuestionNumber": 44,
+    "Answers": [
+      {
+        "AnswerText": "Visite uscis.gov/es/ciudadania/actualizacionesalexamen para saber el nombre del Portavoz de la Cámara de Representantes.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Existen cuatro enmiendas a la Constitución sobre quién puede votar. Describa una de ellas.?",
+    "QuestionNumber": 45,
+    "Answers": [
+      {
+        "AnswerText": "Ciudadanos de dieciocho (18) años en adelante (pueden votar).",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "No se exige pagar un impuesto para votar (el impuesto para acudir a las urnas o “poll tax” en inglés).",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cualquier ciudadano puede votar. (Tanto mujeres como hombres pueden votar).",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Un hombre ciudadano de cualquier raza (puede votar).",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es una responsabilidad que corresponde sólo a los ciudadanos de los Estados Unidos?*",
+    "QuestionNumber": 46,
+    "Answers": [
+      {
+        "AnswerText": "prestar servicio en un jurado",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "votar en una elección federal",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es un derecho que pueden ejercer sólo los ciudadanos de los Estados Unidos?",
+    "QuestionNumber": 47,
+    "Answers": [
+      {
+        "AnswerText": "votar en una elección federal",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "postularse a un cargo político federal",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuáles son dos derechos que pueden ejercer todas las personas que viven en los Estados Unidos?",
+    "QuestionNumber": 48,
+    "Answers": [
+      {
+        "AnswerText": "libertad de expresión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "libertad de la palabra",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "libertad de reunión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "libertad para peticionar al gobierno",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "libertad de religión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "derecho a portar armas",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿A qué demostramos nuestra lealtad cuando decimos el Juramento de Lealtad (Pledge of Allegiance)?",
+    "QuestionNumber": 49,
+    "Answers": [
+      {
+        "AnswerText": "a los Estados Unidos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "a la bandera",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es una promesa que usted hace cuando se convierte en ciudadano de los Estados Unidos?",
+    "QuestionNumber": 50,
+    "Answers": [
+      {
+        "AnswerText": "renunciar a la lealtad a otros países",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "defender la Constitución y las leyes de los Estados Unidos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "obedecer las leyes de los Estados Unidos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "prestar servicio en las Fuerzas Armadas de los Estados Unidos (de ser necesario)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "prestar servicio a (realizar trabajo importante para) la nación (de ser necesario)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "ser leal a los Estados Unidos",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuántos años tienen que tener los ciudadanos para votar por el Presidente?*",
+    "QuestionNumber": 51,
+    "Answers": [
+      {
+        "AnswerText": "dieciocho (18) años en adelante",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuáles son dos maneras mediante las cuales los ciudadanos americanos pueden participar en su democracia?",
+    "QuestionNumber": 52,
+    "Answers": [
+      {
+        "AnswerText": "votar",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "afiliarse a un partido político",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "ayudar en una campaña",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "unirse a un grupo cívico",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "unirse a un grupo comunitario",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "compartir su opinión acerca de un asunto con un oficial electo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "llamar a los senadores y representantes",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "apoyar u oponerse públicamente a un asunto o política",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "postularse a un cargo político",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "enviar una carta o mensaje a un periódico",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es la fecha límite para enviar la declaración federal de impuestos sobre ingresos?*",
+    "QuestionNumber": 53,
+    "Answers": [
+      {
+        "AnswerText": "el 15 de abril",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuándo deben inscribirse todos los hombres en el Servicio Selectivo?",
+    "QuestionNumber": 54,
+    "Answers": [
+      {
+        "AnswerText": "a la edad de dieciocho (18) años",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "entre los dieciocho (18) y veintiséis (26) años de edad",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es una razón por la que los colonos vinieron a América?",
+    "QuestionNumber": 55,
+    "Answers": [
+      {
+        "AnswerText": "libertad",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "libertad política",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "libertad religiosa",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "oportunidad económica",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "para practicar su religión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "para huir de la persecución",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quiénes vivían en lo que hoy conocemos como los Estados Unidos antes de la llegada de los europeos?",
+    "QuestionNumber": 56,
+    "Answers": [
+      {
+        "AnswerText": "Indios americanos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nativos americanos",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué grupo de personas fue traído a los Estados Unidos y vendidos como esclavos?",
+    "QuestionNumber": 57,
+    "Answers": [
+      {
+        "AnswerText": "Africanos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "gente de África",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Por qué lucharon los colonos contra los británicos?",
+    "QuestionNumber": 58,
+    "Answers": [
+      {
+        "AnswerText": "debido a los impuestos altos (impuestos sin representación)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el ejército británico estaba en sus casas (alojándose, acuartelándose)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "porque no tenían gobierno propio",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién escribió la Declaración de Independencia?",
+    "QuestionNumber": 59,
+    "Answers": [
+      {
+        "AnswerText": "(Thomas) Jefferson",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuándo fue adoptada la Declaración de Independencia?",
+    "QuestionNumber": 60,
+    "Answers": [
+      {
+        "AnswerText": "el 4 de julio de 1776",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Había 13 estados originales. Nombre tres.?",
+    "QuestionNumber": 61,
+    "Answers": [
+      {
+        "AnswerText": "Nueva Hampshire",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Massachusetts",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Rhode Island",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Connecticut",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nueva York",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nueva Jersey",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Pensilvania",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Delaware",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Maryland",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Virginia",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Carolina del Norte",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Carolina del Sur",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Georgia",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué ocurrió en la Convención Constitucional?",
+    "QuestionNumber": 62,
+    "Answers": [
+      {
+        "AnswerText": "Se redactó la Constitución.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Los Padres Fundadores redactaron la Constitución.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuándo fue redactada la Constitución?",
+    "QuestionNumber": 63,
+    "Answers": [
+      {
+        "AnswerText": "1787",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Los escritos conocidos como “Los Documentos Federalistas” respaldaron la aprobación de la Constitución de los Estados Unidos. Nombre uno de sus autores.?",
+    "QuestionNumber": 64,
+    "Answers": [
+      {
+        "AnswerText": "(James) Madison",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(Alexander) Hamilton",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(John) Jay",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Publius",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Mencione una razón por la que es famoso Benjamin Franklin.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "diplomático americano",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el miembro de mayor edad de la Convención Constitucional",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "primer Director General de Correos de Estados Unidos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "autor de “Poor Richard’s Almanac” (Almanaque del Pobre Richard)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "fundó las primeras bibliotecas gratuitas",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién se conoce como el “Padre de Nuestra Nación”?",
+    "QuestionNumber": 65,
+    "Answers": [
+      {
+        "AnswerText": "(George) Washington",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién fue el primer Presidente?*",
+    "QuestionNumber": 66,
+    "Answers": [
+      {
+        "AnswerText": "(George) Washington",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué territorio compró Estados Unidos a Francia en 1803?",
+    "QuestionNumber": 67,
+    "Answers": [
+      {
+        "AnswerText": "el territorio de Louisiana",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Louisiana",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione una guerra en la que peleó los Estados Unidos durante los años 1800.?",
+    "QuestionNumber": 68,
+    "Answers": [
+      {
+        "AnswerText": "la Guerra de 1812",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Guerra entre México y los Estados Unidos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Guerra Civil",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Guerra Hispano-Estadounidense (Hispano-americana)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Dé el nombre de la guerra entre el Norte y el Sur de los Estados Unidos.?",
+    "QuestionNumber": 69,
+    "Answers": [
+      {
+        "AnswerText": "la Guerra Civil",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Guerra entre los Estados",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione un problema que condujo a la Guerra Civil.?",
+    "QuestionNumber": 70,
+    "Answers": [
+      {
+        "AnswerText": "esclavitud",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "razones económicas",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "derechos de los estados",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál fue una cosa importante que hizo Abraham Lincoln?*",
+    "QuestionNumber": 71,
+    "Answers": [
+      {
+        "AnswerText": "liberó a los esclavos (Proclamación de la Emancipación)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "salvó (o preservó) la Unión",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "presidió los Estados Unidos durante la Guerra Civil",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué hizo la Proclamación de la Emancipación?",
+    "QuestionNumber": 72,
+    "Answers": [
+      {
+        "AnswerText": "liberó a los esclavos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "liberó a los esclavos de la Confederación",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "liberó a los esclavos en los estados de la Confederación",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "liberó a los esclavos en la mayoría de los estados del sur",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué hizo Susan B. Anthony?",
+    "QuestionNumber": 73,
+    "Answers": [
+      {
+        "AnswerText": "luchó por los derechos de la mujer",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "luchó por los derechos civiles",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione una guerra durante los años 1900 en la que peleó los Estados Unidos.*?",
+    "QuestionNumber": 74,
+    "Answers": [
+      {
+        "AnswerText": "la Primera Guerra Mundial",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Segunda Guerra Mundial",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Guerra de Corea",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Guerra de Vietnam",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "la Guerra del Golfo (Pérsico)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién era el presidente durante la Primera Guerra Mundial?",
+    "QuestionNumber": 75,
+    "Answers": [
+      {
+        "AnswerText": "(Woodrow) Wilson",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Quién era presidente durante la Gran Depresión y la Segunda Guerra Mundial?",
+    "QuestionNumber": 76,
+    "Answers": [
+      {
+        "AnswerText": "(Franklin) Roosevelt",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Contra qué países peleó Estados Unidos en la Segunda Guerra Mundial?",
+    "QuestionNumber": 77,
+    "Answers": [
+      {
+        "AnswerText": "Japón, Alemania e Italia",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Antes de ser presidente, Eisenhower era general. ¿En qué guerra participó?",
+    "QuestionNumber": 78,
+    "Answers": [
+      {
+        "AnswerText": "Segunda Guerra Mundial",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Durante la Guerra Fría, ¿cuál era la principal preocupación de los Estados Unidos?",
+    "QuestionNumber": 79,
+    "Answers": [
+      {
+        "AnswerText": "Comunismo",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué movimiento trató de poner fin a la discriminación racial?",
+    "QuestionNumber": 80,
+    "Answers": [
+      {
+        "AnswerText": "(el movimiento de) derechos civiles",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué hizo Martin Luther King, Jr.?*",
+    "QuestionNumber": 81,
+    "Answers": [
+      {
+        "AnswerText": "luchó por los derechos civiles",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "trabajó por la igualdad de todos los ciudadanos americanos",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué suceso de gran magnitud ocurrió el 11 de septiembre de 2001 en los Estados Unidos?",
+    "QuestionNumber": 82,
+    "Answers": [
+      {
+        "AnswerText": "Terroristas atacaron los Estados Unidos.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione una tribu de indios americanos en los Estados Unidos.?",
+    "QuestionNumber": 83,
+    "Answers": [
+      {
+        "AnswerText": "[A los oficiales del USCIS se les dará una lista de tribus amerindias reconocidas a nivel federal].",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cherokee",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Navajo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Sioux",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chippewa",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Choctaw",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Pueblo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Apache",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Iroquois",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Creek",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Blackfeet",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Seminole",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cheyenne",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Arawak",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Shawnee",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Mohegan",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Huron",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Oneida",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lakota",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Crow",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Teton",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Hopi",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Inuit",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione uno de los dos ríos más largos en los Estados Unidos.?",
+    "QuestionNumber": 84,
+    "Answers": [
+      {
+        "AnswerText": "(el Río) Missouri",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(el Río) Mississippi",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué océano está en la costa oeste de los Estados Unidos?",
+    "QuestionNumber": 85,
+    "Answers": [
+      {
+        "AnswerText": "(el Océano) Pacífico",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Qué océano está en la costa este de los Estados Unidos?",
+    "QuestionNumber": 86,
+    "Answers": [
+      {
+        "AnswerText": "(el Océano) Atlántico",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Dé el nombre de un territorio de los Estados Unidos.?",
+    "QuestionNumber": 87,
+    "Answers": [
+      {
+        "AnswerText": "Puerto Rico",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Islas Vírgenes de Estados Unidos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Samoa Estadounidense",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Islas Marianas del Norte",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Guam",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione un estado que tiene frontera con Canadá.?",
+    "QuestionNumber": 88,
+    "Answers": [
+      {
+        "AnswerText": "Maine",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nueva Hampshire",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Vermont",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nueva York",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Pensilvania",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Ohio",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Michigan",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Minnesota",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Dakota del Norte",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Montana",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Idaho",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Washington",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Alaska",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione un estado que tiene frontera con México.?",
+    "QuestionNumber": 89,
+    "Answers": [
+      {
+        "AnswerText": "California",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Arizona",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nuevo México",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Texas",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuál es la capital de los Estados Unidos?*",
+    "QuestionNumber": 90,
+    "Answers": [
+      {
+        "AnswerText": "Washington, D.C.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Dónde está la Estatua de la Libertad?*",
+    "QuestionNumber": 91,
+    "Answers": [
+      {
+        "AnswerText": "(el puerto de) Nueva York",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Liberty Island",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "[Otras respuestas aceptables son Nueva Jersey, cerca de la Ciudad de Nueva York y (el Río) Hudson].",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Por qué hay 13 franjas en la bandera?",
+    "QuestionNumber": 92,
+    "Answers": [
+      {
+        "AnswerText": "porque representan las 13 colonias originales",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "porque las franjas representan las colonias originales",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Por qué hay 50 estrellas en la bandera?*",
+    "QuestionNumber": 93,
+    "Answers": [
+      {
+        "AnswerText": "porque hay una estrella por cada estado",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "porque cada estrella representa un estado",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "porque hay 50 estados",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cómo se llama el himno nacional?",
+    "QuestionNumber": 94,
+    "Answers": [
+      {
+        "AnswerText": "The Star-Spangled Banner",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "¿Cuándo celebramos el Día de la Independencia?*",
+    "QuestionNumber": 95,
+    "Answers": [
+      {
+        "AnswerText": "el 4 de julio",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Mencione dos días feriados nacionales de los Estados Unidos.?",
+    "QuestionNumber": 96,
+    "Answers": [
+      {
+        "AnswerText": "el Día de Año Nuevo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de Martin Luther King, Jr.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de los Presidentes",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de la Recordación",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de la Independencia",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día del Trabajo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de la Raza (Cristóbal Colón)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de los Veteranos",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de Acción de Gracias",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "el Día de Navidad",
+        "IsCorrect": true
+      }
+    ]
+  }
+]

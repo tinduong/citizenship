@@ -1,0 +1,1714 @@
+[
+  {
+    "QuestionDescription": "Luật cao nhất của quốc gia là gì?",
+    "QuestionNumber": 1,
+    "Answers": [
+      {
+        "AnswerText": "Hiến Pháp",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hiến Pháp có mục đích gì?",
+    "QuestionNumber": 2,
+    "Answers": [
+      {
+        "AnswerText": "thiết lập chánh phủ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "mô tả tổ chức chánh phủ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "bảo vệ các quyền căn bản của người dân Hoa Kỳ",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ý tưởng tự quản trị nằm trong ba chữ đầu tiên của Hiến Pháp. Các chữ này là những chữ nào?",
+    "QuestionNumber": 3,
+    "Answers": [
+      {
+        "AnswerText": "Chúng tôi người dân (We the People)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tu chính án là gì?",
+    "QuestionNumber": 4,
+    "Answers": [
+      {
+        "AnswerText": "một sự thay đổi (trong Hiến Pháp)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "một sự thêm (vào Hiến Pháp)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ta gọi mười tu chính đầu tiên vào Hiến Pháp là gì?",
+    "QuestionNumber": 5,
+    "Answers": [
+      {
+        "AnswerText": "Luật Dân Quyền",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Kể ra Một quyền hoặc một tự do trong Tu Chính Án Đầu Tiên (First Amendment)?*",
+    "QuestionNumber": 6,
+    "Answers": [
+      {
+        "AnswerText": "tự do ngôn luận",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do tôn giáo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do hội họp",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do báo chí",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do thỉnh nguyện chánh phủ",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hiến Pháp có bao nhiêu tu chính án?",
+    "QuestionNumber": 7,
+    "Answers": [
+      {
+        "AnswerText": "hai mươi bảy (27)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T8.uyênBNảgnôn Độc Lập có ý nghĩa gì?",
+    "QuestionNumber": 8,
+    "Answers": [
+      {
+        "AnswerText": "thông báo nền độc lập của chúng ta (khỏi Anh Quốc)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tuyên cáo nền độc lập của chúng ta (khỏi Anh Quốc)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "cho biết Hoa Kỳ đã tự do (khỏi Anh Quốc)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Kể ra Hai quyền trong bản Bản Tuyên Ngôn Độc Lập?",
+    "QuestionNumber": 9,
+    "Answers": [
+      {
+        "AnswerText": "quyền sống",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "quyền tự do",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "quyền theo đuổi hạnh phúc",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tự do tôn giáo là gì?",
+    "QuestionNumber": 10,
+    "Answers": [
+      {
+        "AnswerText": "Bạn có thể theo bất cứ tôn giáo nào, hoặc không theo tôn giáo nào.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hệ thống kinh tế của Hoa Kỳ gọi là gì?*",
+    "QuestionNumber": 11,
+    "Answers": [
+      {
+        "AnswerText": "kinh tế tư bản",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "kinh tế thị trường",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "“Thượng tôn luật pháp” là gì?",
+    "QuestionNumber": 12,
+    "Answers": [
+      {
+        "AnswerText": "Mọi người đều phải tuân theo luật pháp.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cả các người lãnh đạo đều phải tuân theo luật pháp.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nhà cầm quyền phải tuân theo luật pháp.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Không ai được ở trên pháp luật cả.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết một ngành hay phần của công quyền.*?",
+    "QuestionNumber": 13,
+    "Answers": [
+      {
+        "AnswerText": "Quốc Hội",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "lập pháp",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Tổng Thống",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "hành pháp",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "các tòa án",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tư pháp",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cách nào ngăn cản một ngành công quyền trở thành quá mạnh?",
+    "QuestionNumber": 14,
+    "Answers": [
+      {
+        "AnswerText": "kiểm soát lẫn nhau",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "phân quyền",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai phụ trách hành pháp?",
+    "QuestionNumber": 15,
+    "Answers": [
+      {
+        "AnswerText": "Tổng Thống",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai làm luật liên bang?",
+    "QuestionNumber": 16,
+    "Answers": [
+      {
+        "AnswerText": "Quốc Hội",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Thượng và Hạ Nghị Viện",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Ngành Lập Pháp (của Liên Bang hay Quốc Gia)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hai phần của Quốc Hội Hoa Kỳ là gì?*",
+    "QuestionNumber": 17,
+    "Answers": [
+      {
+        "AnswerText": "Thượng và Hạ Nghị Viện",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Có bao nhiêu Thượng Nghị Sĩ Liên Bang?",
+    "QuestionNumber": 18,
+    "Answers": [
+      {
+        "AnswerText": "một trăm (100)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Chúng ta bầu Thượng Nghị Sĩ cho bao nhiêu năm?",
+    "QuestionNumber": 19,
+    "Answers": [
+      {
+        "AnswerText": "sáu (6)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai là một trong những Thượng Nghị Sĩ Liên Bang của bạn?*",
+    "QuestionNumber": 20,
+    "Answers": [
+      {
+        "AnswerText": "Câu trả lời thay đổi tùy tiểu bang. [Cư dân ở thủ đô Washington, D.C. và cư dân ở các lãnh thổ Hoa Kỳ trả lời là DC hoặc lãnh thổ mình ở không có thượng-nghị-sĩ.]",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hạ-Nghị-Viện có bao nhiêu dân biểu?",
+    "QuestionNumber": 21,
+    "Answers": [
+      {
+        "AnswerText": "bốn trăm ba mươi lăm (435)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Chúng ta bầu dân biểu cho mấy năm?",
+    "QuestionNumber": 22,
+    "Answers": [
+      {
+        "AnswerText": "hai năm (2)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết tên dân biểu của bạn.?",
+    "QuestionNumber": 23,
+    "Answers": [
+      {
+        "AnswerText": "Câu trả lời sẽ thay đổi tùy nơi. [Cư dân ở các nơi có Đại Biểu “không có quyền biểu quyết” hoặc Đại Biểu Thường Trú có thể nói tên người đó. Cũng có thể trả lời là vùng đó không có đại diện có quyền biểu quyết tại Quốc Hội.]",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Thượng-nghị-sĩ đại diện ai?",
+    "QuestionNumber": 24,
+    "Answers": [
+      {
+        "AnswerText": "Tất cả người dân trong tiểu bang",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tại sao có những tiểu bang có nhiều đại biểu hơn các tiểu bang khác?",
+    "QuestionNumber": 25,
+    "Answers": [
+      {
+        "AnswerText": "(Vì) dân số tiểu bang đó",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(Vì) tiểu bang đó đông dân hơn",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(Vì) một số tiểu bang đông dân hơn tiểu bang khác",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Nhiệm kỳ Tổng Thống là mấy năm?",
+    "QuestionNumber": 26,
+    "Answers": [
+      {
+        "AnswerText": "Bốn (4) năm",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T27ổ.ng BTầhuống vào tháng nào?*",
+    "QuestionNumber": 27,
+    "Answers": [
+      {
+        "AnswerText": "Tháng Mười Một",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hiện nay tên Tổng Thống Hoa Kỳ là gì?*",
+    "QuestionNumber": 28,
+    "Answers": [
+      {
+        "AnswerText": "Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Tổng Thống Hoa Kỳ.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hiện nay tên Phó Tổng Thống Hoa Kỳ là gì?",
+    "QuestionNumber": 29,
+    "Answers": [
+      {
+        "AnswerText": "Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Phó Tổng Thống Hoa Kỳ.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T30ổ.ng NThếuống không còn làm việc được nữa, ai sẽ thay thế làm Tổng Thống?",
+    "QuestionNumber": 30,
+    "Answers": [
+      {
+        "AnswerText": "Phó Tổng Thống",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Nếu cả Tổng Thống và Phó Tổng Thống không còn làm việc được nữa, ai sẽ thay thế?",
+    "QuestionNumber": 31,
+    "Answers": [
+      {
+        "AnswerText": "Chủ Tịch Hạ Nghị Viện",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T32ổ.ng ATưi lLà ệnh quân đội?",
+    "QuestionNumber": 32,
+    "Answers": [
+      {
+        "AnswerText": "Tổng Thống",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai sẽ ký dự thảo luật thành luật?",
+    "QuestionNumber": 33,
+    "Answers": [
+      {
+        "AnswerText": "Tổng Thống",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai có quyền phủ quyết các dự luật?",
+    "QuestionNumber": 34,
+    "Answers": [
+      {
+        "AnswerText": "Tổng Thống",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Nội các của Tổng Thống làm gì?",
+    "QuestionNumber": 35,
+    "Answers": [
+      {
+        "AnswerText": "Cố vấn cho Tổng Thống",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Kể ra Hai chức vụ trong hàng nội các.?",
+    "QuestionNumber": 36,
+    "Answers": [
+      {
+        "AnswerText": "Bộ Trưởng Canh Nông",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Thương Mại",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Quốc Phòng",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Giáo Dục",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Năng Lượng",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Y Tế và Phục Vụ Nhân Sinh",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Nội An",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Gia Cư và Phát Triển Đô Thị",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Nội Vụ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Lao Động",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Ngoại Giao",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Giao Thông",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Ngân Khố hay Tài Chính",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Cựu Chiến Binh",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bộ Trưởng Tư Pháp",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Phó Tổng Thống",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ngành tư pháp làm gì?",
+    "QuestionNumber": 37,
+    "Answers": [
+      {
+        "AnswerText": "duyệt lại luật lệ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "cắt nghĩa luật lệ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "giải quyết tranh cãi (bất hòa)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "quyết định xem luật có đi ngược lại hiến pháp không",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tòa án cao nhất ở Hoa Kỳ là gì?",
+    "QuestionNumber": 38,
+    "Answers": [
+      {
+        "AnswerText": "Tối Cao Pháp Viện",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Có bao nhiêu thẩm phán ở Tối Cao Pháp Viện?",
+    "QuestionNumber": 39,
+    "Answers": [
+      {
+        "AnswerText": "Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết số Thẩm Phán của Tòa Án Tối Cao Pháp Viện.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai đang là Chủ Tịch Tối Cao Pháp Viện?",
+    "QuestionNumber": 40,
+    "Answers": [
+      {
+        "AnswerText": "Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Chánh Án Tòa Án Tối Cao Pháp Viện Hoa Kỳ.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Theo Hiến Pháp, chánh phủ liên bang có một số quyền. Một trong các quyền của chánh phủ liên bang là?",
+    "QuestionNumber": 41,
+    "Answers": [
+      {
+        "AnswerText": "in tiền",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tuyên chiến",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "lập quân đội",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "ký các hòa ước",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Theo Hiến Pháp, các tiểu bang có một số quyền. Một trong những quyền này là gì?",
+    "QuestionNumber": 42,
+    "Answers": [
+      {
+        "AnswerText": "cung cấp trường học và giáo dục",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "bảo vệ dân chúng (cảnh sát)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "bảo vệ an toàn (các sở cứu hỏa)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "cấp bằng lái xe",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "chia vùng và chấp thuận cách xử dụng đất đai",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Thống Đốc tiểu bang của bạn tên gì?",
+    "QuestionNumber": 43,
+    "Answers": [
+      {
+        "AnswerText": "Câu trả lời tùy tiểu bang. [Cư dân vùng thủ đô Washington, D.C. phải trả lời là vùng thủ đô DC không có Thống Đốc.]",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Thủ phủ của tiểu bang bạn tên gì?*",
+    "QuestionNumber": 44,
+    "Answers": [
+      {
+        "AnswerText": "Câu trả lời tùy theo tiểu bang. [Cư dân vùng thủ đô Washington, D.C. phải trả lời là vùng DC không phải là một tiểu bang và không có thủ phủ. Cư dân các lãnh thổ hải ngoại của Hoa Kỳ phải cho biết thủ phủ của vùng lãnh thổ hải ngoại này.]",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hai đảng chính của Hoa Kỳ là gì?*",
+    "QuestionNumber": 45,
+    "Answers": [
+      {
+        "AnswerText": "Dân Chủ và Cộng Hòa",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Đảng của Tổng Thống hiện tại là đảng nào?",
+    "QuestionNumber": 46,
+    "Answers": [
+      {
+        "AnswerText": "Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết thông tin về chính đảng của Tổng Thống Hoa Kỳ.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T47ịc. h HCạhVủ iện hiện thời tên gì?",
+    "QuestionNumber": 47,
+    "Answers": [
+      {
+        "AnswerText": "Xin ghé thăm trang uscis.gov/citizenship/testupdates để biết tên của Chủ Tịch Hạ viện Dân Biểu Hoa Kỳ.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Có bốn tu chính án Hiến Pháp về việc ai có quyền bầu cử. Kể ra Một trong các thứ đó.?",
+    "QuestionNumber": 48,
+    "Answers": [
+      {
+        "AnswerText": "Công dân mười tám (18) tuổi và hơn (được đi bầu).",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Không phải trả (thuế bầu cử) để được bầu.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Bất cứ công dân nào cũng được bầu (phụ nữ và nam giới đều được bầu).",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nam giới của bất cứ chủng tộc nào (cũng đều được bầu).",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Một trong các bổn phận chỉ dành riêng cho công dân Hoa Kỳ là gì?*",
+    "QuestionNumber": 49,
+    "Answers": [
+      {
+        "AnswerText": "phục vụ trong bồi thẩm đoàn",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "đi bầu trong bầu cử liên bang",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết một quyền của riêng công dân Hoa Kỳ.?",
+    "QuestionNumber": 50,
+    "Answers": [
+      {
+        "AnswerText": "tham gia bầu cử cấp liên bang",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "ứng cử chức vụ liên bang",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết hai quyền của mỗi người sống ở Hoa Kỳ?",
+    "QuestionNumber": 51,
+    "Answers": [
+      {
+        "AnswerText": "tự do phát biểu ý kiến",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do ngôn luận",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do hội họp",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do thỉnh nguyện chính quyền",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do tín ngưỡng",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "quyền mang vũ khí tự vệ",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Khi nói Lời Tuyên Thệ Trung Thành (Pledge of Allegiance), chúng ta chứng tỏ sự trung thành với cái gì?",
+    "QuestionNumber": 52,
+    "Answers": [
+      {
+        "AnswerText": "Hoa Kỳ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lá cờ",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Khi trở thành công dân Hoa Kỳ, một trong những lời hứa của bạn là gì?",
+    "QuestionNumber": 53,
+    "Answers": [
+      {
+        "AnswerText": "từ bỏ sự trung thành với các quốc gia khác",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "bảo vệ Hiến Pháp và luật lệ Hoa Kỳ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tuân hành luật lệ của Hoa Kỳ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "phục vụ trong quân đội Hoa Kỳ (nếu cần)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "phục vụ (công việc quan trọng cho) Hoa Kỳ (nếu cần)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "trung thành với quốc gia Hoa Kỳ",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Công dân phải bao nhiêu tuổi mới được bầu Tổng Thống?*",
+    "QuestionNumber": 54,
+    "Answers": [
+      {
+        "AnswerText": "Mười Tám (18) và hơn",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Có hai cách công dân Hoa Kỳ có thể tham dự vào nền dân chủ là các cách nào?",
+    "QuestionNumber": 55,
+    "Answers": [
+      {
+        "AnswerText": "bầu cử",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tham gia một đảng phái chính trị",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tham dự vào một cuộc vận động tranh cử",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tham dự vào một nhóm hoạt động công dân",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tham dự vào một nhóm hoạt động cộng đồng",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "phát biểu ý kiến về một vấn đề với một vị dân cử",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "gọi điện thoại cho nghị sĩ và dân biểu",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "công khai ủng hộ hoặc phản đối một vấn đề hay chính sách nào đó",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tranh cử",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "góp ý kiến trên một tờ báo",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ngày cuối cùng có thể nạp mẫu khai thuế cho liên bang là?*",
+    "QuestionNumber": 56,
+    "Answers": [
+      {
+        "AnswerText": "15 Tháng Tư",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Khi nào tất cả nam giới phải ghi tên cho Sở Quân Vụ (Selective Service)?",
+    "QuestionNumber": 57,
+    "Answers": [
+      {
+        "AnswerText": "ở tuổi mười tám (18)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "ở giữa tuổi mười tám (18) và hai mươi sáu (26)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Một trong những lý do khiến người di dân thời thuộc địa tới Mỹ Châu là gì?",
+    "QuestionNumber": 58,
+    "Answers": [
+      {
+        "AnswerText": "tự do",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do chính trị",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tự do tôn giáo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "cơ hội kinh tế",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "hành xử tôn giáo của mình",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tránh sự áp bức",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Những ai sống tại Mỹ trước khi người Âu Châu tới?",
+    "QuestionNumber": 59,
+    "Answers": [
+      {
+        "AnswerText": "người da đỏ Mỹ Châu",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "thổ dân Mỹ Châu",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Nhóm người nào được mang tới Mỹ Châu và bán làm nô lệ?",
+    "QuestionNumber": 60,
+    "Answers": [
+      {
+        "AnswerText": "người Phi Châu",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "người từ Phi Châu",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tại sao những người di dân thời thuộc địa chống lại người Anh?",
+    "QuestionNumber": 61,
+    "Answers": [
+      {
+        "AnswerText": "vì thuế má cao quá (phải đóng thuế mà không có người đại diện)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "vì quân đội Anh đồn trú trong nhà của họ (ở trọ, làm trại binh)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "vì người di dân thời thuộc địa không có chính quyền tự quản",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai viết Bản Tuyên Ngôn Độc Lập?",
+    "QuestionNumber": 62,
+    "Answers": [
+      {
+        "AnswerText": "(Thomas) Jefferson",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T63u.yênBNảgnôn Độc Lập được chấp nhận lúc nào?",
+    "QuestionNumber": 63,
+    "Answers": [
+      {
+        "AnswerText": "4 Tháng Bẩy 1776",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Có 13 tiểu bang nguyên thủy. Cho biết ba tiểu bang.?",
+    "QuestionNumber": 64,
+    "Answers": [
+      {
+        "AnswerText": "New Hampshire",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Massachusetts",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Rhode Island",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Connecticut",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "New York",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "New Jersey",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Pennsylvania",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Delaware",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Maryland",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Virginia",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "North Carolina",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "South Carolina",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Georgia",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "i6ệ5c. gì xVảy ra tại Đại Hội Lập Hiến (Constitutional Convention)?",
+    "QuestionNumber": 65,
+    "Answers": [
+      {
+        "AnswerText": "Soạn thảo Hiến Pháp.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Các nhà lập quốc soạn thảo Hiến Pháp.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hiến Pháp được soạn thảo khi nào?",
+    "QuestionNumber": 66,
+    "Answers": [
+      {
+        "AnswerText": "1787",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Các bài tham luận gọi là Federalist Papers có mục đích hỗ trợ việc thông qua Hiến Pháp Hoa Kỳ. Kể tên một trong những người viết tham luận.?",
+    "QuestionNumber": 67,
+    "Answers": [
+      {
+        "AnswerText": "(James) Madison",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(Alexander) Hamilton",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(John) Jay",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Publius",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Một việc gì làm Benjamin Franklin nổi tiếng?",
+    "QuestionNumber": 68,
+    "Answers": [
+      {
+        "AnswerText": "nhà ngoại giao Hoa Kỳ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "thành viên già nhất của Đại Hội Lập Hiến",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Tổng Giám Đốc Bưu Điện đầu tiên của Hoa Kỳ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "người viết cuốn lịch “Poor Richard’s Almanac”",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "khởi công xây các thư viện miễn phí đầu tiên của Hoa Kỳ",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ai được gọi là cha đẻ của nước Mỹ?",
+    "QuestionNumber": 69,
+    "Answers": [
+      {
+        "AnswerText": "(George) Washington",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T70ổ.ng AThi ốlàng đầu tiên?*",
+    "QuestionNumber": 70,
+    "Answers": [
+      {
+        "AnswerText": "(George) Washington",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Hoa Kỳ mua lãnh thổ nào của Pháp vào năm 1803?",
+    "QuestionNumber": 71,
+    "Answers": [
+      {
+        "AnswerText": "Lãnh Thổ Louisiana",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Louisiana",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Nói tên một trong những cuộc chiến Hoa Kỳ tham dự thời 1800.?",
+    "QuestionNumber": 72,
+    "Answers": [
+      {
+        "AnswerText": "Chiến tranh 1812",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chiến tranh Hoa Kỳ-Mễ-Tây-Cơ (Mexico)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Nội chiến",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chiến tranh Hoa Kỳ-Tây-Ban-Nha",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tên gọi của cuộc chiến trên đất Hoa Kỳ giữa miền Bắc và miền Nam là gì.?",
+    "QuestionNumber": 73,
+    "Answers": [
+      {
+        "AnswerText": "Nội chiến",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chiến tranh giữa các Tiểu Bang",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết một vấn đề đưa tới cuộc nội chiến.?",
+    "QuestionNumber": 74,
+    "Answers": [
+      {
+        "AnswerText": "vấn đề nô lệ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "các vấn đề kinh tế",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "quyền của các tiểu bang",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Một điều quan trọng mà Abraham Lincoln làm là gì?*",
+    "QuestionNumber": 75,
+    "Answers": [
+      {
+        "AnswerText": "giải phóng nô lệ (Tuyên Ngôn Giải Phóng)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "giữ gìn (hoặc bảo tồn) đoàn kết Quốc Gia",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "lãnh đạo Hoa Kỳ trong Cuộc Nội Chiến",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "u76y.ên NTgôn Giải Phóng làm gì?",
+    "QuestionNumber": 76,
+    "Answers": [
+      {
+        "AnswerText": "giải phóng nô lệ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "giải phóng nô lệ thuộc tập hợp (nhóm) các tiểu bang ly khai miền Nam",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "giải phóng nô lệ ở các tiểu bang miền Nam",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "giải phóng nô lệ ở đa số các tiểu bang miền Nam",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Bà Susan B. Anthony làm gì?",
+    "QuestionNumber": 77,
+    "Answers": [
+      {
+        "AnswerText": "tranh đấu cho quyền phụ nữ",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "tranh đấu cho dân quyền",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cho biết một cuộc chiến mà Hoa Kỳ tham dự vào thập niên 1900.*",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Thế Chiến Thứ Nhất",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Thế Chiến Thứ Hai",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chiến Tranh Cao Ly (Triều Tiên)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chiến Tranh Việt Nam",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chiến tranh Vùng Vịnh (Ba Tư)",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T79ổ.ng AThi ốlàng trong Thế Chiến Thứ Nhất?",
+    "QuestionNumber": 78,
+    "Answers": [
+      {
+        "AnswerText": "(Woodrow) Wilson",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "T80ổ.ng AThi ốlàng trong thời kỳ Khủng Hoảng Kinh Tế và Thế Chiến Thứ Hai?",
+    "QuestionNumber": 79,
+    "Answers": [
+      {
+        "AnswerText": "(Franklin) Roosevelt",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "r8o1n. g TThế Chiến Thứ Hai, Hoa Kỳ chiến đấu chống các nước nào?",
+    "QuestionNumber": 80,
+    "Answers": [
+      {
+        "AnswerText": "Nhật Bản, Đức và Ý",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "r8ư2.ớc kThi trở thành Tổng Thống, Eisenhower là tướng lãnh. Ông ta đánh trận nào?",
+    "QuestionNumber": 81,
+    "Answers": [
+      {
+        "AnswerText": "Thế Chiến Thứ Hai",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "r8o3n. g tThời kỳ Chiến Tranh Lạnh, quan tâm chính của Hoa Kỳ là gì?",
+    "QuestionNumber": 82,
+    "Answers": [
+      {
+        "AnswerText": "Chủ Nghĩa Cộng Sản",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Phong trào nào tìm cách chấm dứt sự phân biệt chủng tộc?",
+    "QuestionNumber": 83,
+    "Answers": [
+      {
+        "AnswerText": "(phong trào) dân quyền",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Martin Luther King, Jr. đã làm gì?*",
+    "QuestionNumber": 84,
+    "Answers": [
+      {
+        "AnswerText": "tranh đấu cho dân quyền",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "hoạt động nhằm mang lại bình đẳng cho mọi người Mỹ",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Biến cố lớn lao nào xảy ra vào ngày 11 tháng 9 năm 2001 tại Hoa Kỳ?",
+    "QuestionNumber": 85,
+    "Answers": [
+      {
+        "AnswerText": "Bọn khủng bố tấn công Hoa Kỳ.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Kể tên một bộ lạc da đỏ tại Mỹ.?",
+    "QuestionNumber": 86,
+    "Answers": [
+      {
+        "AnswerText": "[Phỏng vấn viên USCIS sẽ được cung cấp một danh sách các bộ lạc da đỏ được liên bang công nhận.]",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cherokee",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Navajo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Sioux",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Chippewa",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Choctaw",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Pueblo",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Apache",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Iroquois",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Creek",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Blackfeet",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Seminole",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cheyenne",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Arawak",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Shawnee",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Mohegan",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Huron",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Oneida",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lakota",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Crow",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Teton",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Hopi",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Inuit",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Cho biết một trong hai con sông dài nhất ở Hoa Kỳ.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(Sông) Missouri",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "(Sông) Mississippi",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Biển nào ở bờ biển phía Tây Hoa Kỳ?",
+    "QuestionNumber": 87,
+    "Answers": [
+      {
+        "AnswerText": "Thái-Bình-Dương",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Biển nào ở bờ biển phía Đông Hoa Kỳ?",
+    "QuestionNumber": 88,
+    "Answers": [
+      {
+        "AnswerText": "Đại-Tây-Dương",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết một lãnh thổ hải ngoại của Hoa Kỳ.?",
+    "QuestionNumber": 89,
+    "Answers": [
+      {
+        "AnswerText": "Puerto Rico",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Quần Đảo Virgin",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Đảo Samoa",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Quần Đảo Bắc Mariana",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Đảo Guam",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết một trong những tiểu bang ráp ranh Gia-Nã-Đại.?",
+    "QuestionNumber": 90,
+    "Answers": [
+      {
+        "AnswerText": "Maine",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "New Hampshire",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Vermont",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "New York",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Pennsylvania",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Ohio",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Michigan",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Minnesota",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "North Dakota",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Montana",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Idaho",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Washington",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Alaska",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết một trong những tiểu bang ráp ranh Mễ-Tây-Cơ.?",
+    "QuestionNumber": 91,
+    "Answers": [
+      {
+        "AnswerText": "California",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Arizona",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "New Mexico",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Texas",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Thủ đô của Hoa Kỳ tên gì?*",
+    "QuestionNumber": 92,
+    "Answers": [
+      {
+        "AnswerText": "Washington, D.C.",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tượng Nữ Thần Tự Do ở đâu?*",
+    "QuestionNumber": 93,
+    "Answers": [
+      {
+        "AnswerText": "(Hải Cảng) Nữu Ước",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Đảo Liberty",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "[Cũng chấp nhận nếu trả lời là New Jersey, gần thành phố New York và trên sông Hudson.]",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tại sao lá cờ Hoa Kỳ có 13 lằn gạch?",
+    "QuestionNumber": 94,
+    "Answers": [
+      {
+        "AnswerText": "bởi vì đã có 13 thuộc địa nguyên thủy",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "bởi vì các lằn này tượng trưng cho 13 thuộc địa nguyên thủy",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tại sao lá cờ Hoa Kỳ có 50 ngôi sao?*",
+    "QuestionNumber": 95,
+    "Answers": [
+      {
+        "AnswerText": "bởi vì mỗi tiểu bang có một ngôi sao",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "bởi vì mỗi ngôi sao tượng trưng cho một tiểu bang",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "bởi vì có 50 tiểu bang",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Tựa của bài quốc ca Hoa Kỳ là gì?",
+    "QuestionNumber": 96,
+    "Answers": [
+      {
+        "AnswerText": "The Star-Spangled Banner",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Ngày nào là ngày Lễ Độc Lập?*",
+    "QuestionNumber": 97,
+    "Answers": [
+      {
+        "AnswerText": "4 Tháng Bẩy",
+        "IsCorrect": true
+      }
+    ]
+  },
+  {
+    "QuestionDescription": "Cho biết hai ngày lễ quốc gia của Hoa Kỳ.?",
+    "QuestionNumber": 98,
+    "Answers": [
+      {
+        "AnswerText": "Tết Tây",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Ngày Sinh của Martin Luther King, Jr.",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Ngày Các Tổng Thống",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lễ Chiến Sĩ Trận Vong (Memorial Day)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lễ Độc Lập (Independence Day)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lễ Lao Động (Labor Day)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Ngày Tưởng Niệm Columbus",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Ngày Cựu Chiến Binh (Veterans Day)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lễ Tạ Ơn (Thanksgiving)",
+        "IsCorrect": true
+      },
+      {
+        "AnswerText": "Lễ Giáng Sinh",
+        "IsCorrect": true
+      }
+    ]
+  }
+]
