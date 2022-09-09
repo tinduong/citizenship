@@ -62,26 +62,6 @@
             {
                 "AnswerText": "The Chief Justice.",
                 "IsCorrect": false
-            },
-            {
-                "AnswerText": "Name one branch or part of the government. Choose one:",
-                "IsCorrect": false
-            },
-            {
-                "AnswerText": "State government.",
-                "IsCorrect": false
-            },
-            {
-                "AnswerText": "Legislative.",
-                "IsCorrect": true
-            },
-            {
-                "AnswerText": "Parliament.",
-                "IsCorrect": false
-            },
-            {
-                "AnswerText": "United Nations.",
-                "IsCorrect": false
             }
         ]
     },
@@ -1053,6 +1033,28 @@
             },
             {
                 "AnswerText": "Abraham Lincoln.",
+                "IsCorrect": false
+            }
+        ]
+    },
+    {
+        "QuestionDescription":"Name one branch or part of the government. Choose one:",
+        "QuestionNumber": 48,
+        "Answers": [
+            {
+                "AnswerText": "State government.",
+                "IsCorrect": false
+            },
+            {
+                "AnswerText": "Legislative.",
+                "IsCorrect": true
+            },
+            {
+                "AnswerText": "Parliament.",
+                "IsCorrect": false
+            },
+            {
+                "AnswerText": "United Nations.",
                 "IsCorrect": false
             }
         ]
