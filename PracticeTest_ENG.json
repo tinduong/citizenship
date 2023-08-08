@@ -1,6 +1,6 @@
 [
     {
-        "QuestionDescription": "What are two rights of everyone living in the United States? Choose one:",
+        "QuestionDescription": "What are two rights of everyone living in the United States? ",
         "QuestionNumber": 1,
         "Answers": [
             {
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is freedom of religion? Choose one:",
+        "QuestionDescription": "What is freedom of religion? ",
         "QuestionNumber": 2,
         "Answers": [
             {
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who is in charge of the executive branch? Choose one:",
+        "QuestionDescription": "Who is in charge of the executive branch? ",
         "QuestionNumber": 3,
         "Answers": [
             {
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "QuestionDescription": "What do we call the first ten amendments to the Constitution? Choose one:",
+        "QuestionDescription": "What do we call the first ten amendments to the Constitution? ",
         "QuestionNumber": 4,
         "Answers": [
             {
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "QuestionDescription": "Under our Constitution, some powers belong to the states. What is one power of the states? Choose one:",
+        "QuestionDescription": "Under our Constitution, some powers belong to the states. What is one power of the states? ",
         "QuestionNumber": 5,
         "Answers": [
             {
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who is the Commander in Chief of the military? Choose one:",
+        "QuestionDescription": "Who is the Commander in Chief of the military? ",
         "QuestionNumber": 6,
         "Answers": [
             {
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is one reason colonists came to America? Choose one:",
+        "QuestionDescription": "What is one reason colonists came to America? ",
         "QuestionNumber": 7,
         "Answers": [
             {
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who is the “Father of Our Country”? Choose one:",
+        "QuestionDescription": "Who is the “Father of Our Country”? ",
         "QuestionNumber": 8,
         "Answers": [
             {
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "QuestionDescription": "What group of people was taken to America and sold as slaves? Choose one:",
+        "QuestionDescription": "What group of people was taken to America and sold as slaves? ",
         "QuestionNumber": 9,
         "Answers": [
             {
@@ -198,7 +198,7 @@
         ]
     },
     {
-        "QuestionDescription": "We elect a U.S. Senator for how many years? Choose one:",
+        "QuestionDescription": "We elect a U.S. Senator for how many years? ",
         "QuestionNumber": 10,
         "Answers": [
             {
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "QuestionDescription": "What stops one branch of government from becoming too powerful? Choose one:",
+        "QuestionDescription": "What stops one branch of government from becoming too powerful? ",
         "QuestionNumber": 11,
         "Answers": [
             {
@@ -242,7 +242,7 @@
         ]
     },
     {
-        "QuestionDescription": "We elect a President for how many years? Choose one:",
+        "QuestionDescription": "We elect a President for how many years? ",
         "QuestionNumber": 12,
         "Answers": [
             {
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "QuestionDescription": "The idea of self-government is in the first three words of the Constitution. What are these words? Choose one:",
+        "QuestionDescription": "The idea of self-government is in the first three words of the Constitution. What are these words? ",
         "QuestionNumber": 13,
         "Answers": [
             {
@@ -286,7 +286,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who makes federal laws? Choose one:",
+        "QuestionDescription": "Who makes federal laws? ",
         "QuestionNumber": 14,
         "Answers": [
             {
@@ -308,7 +308,7 @@
         ]
     },
     {
-        "QuestionDescription": "What did Martin Luther King, Jr. do? Choose one:",
+        "QuestionDescription": "What did Martin Luther King, Jr. do? ",
         "QuestionNumber": 15,
         "Answers": [
             {
@@ -330,7 +330,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is the “rule of law”? Choose one:",
+        "QuestionDescription": "What is the “rule of law”? ",
         "QuestionNumber": 16,
         "Answers": [
             {
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "QuestionDescription": "What does the Constitution do? Choose one:",
+        "QuestionDescription": "What does the Constitution do? ",
         "QuestionNumber": 17,
         "Answers": [
             {
@@ -374,7 +374,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who lived in America before the Europeans arrived? Choose one:",
+        "QuestionDescription": "Who lived in America before the Europeans arrived? ",
         "QuestionNumber": 18,
         "Answers": [
             {
@@ -396,7 +396,7 @@
         ]
     },
     {
-        "QuestionDescription": "What did Susan B. Anthony do? Choose one:",
+        "QuestionDescription": "What did Susan B. Anthony do? ",
         "QuestionNumber": 19,
         "Answers": [
             {
@@ -418,7 +418,7 @@
         ]
     },
     {
-        "QuestionDescription": "What are the two major political parties in the United States today? Choose one:",
+        "QuestionDescription": "What are the two major political parties in the United States today? ",
         "QuestionNumber": 20,
         "Answers": [
             {
@@ -440,7 +440,7 @@
         ]
     },
     {
-        "QuestionDescription": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government? Choose one:",
+        "QuestionDescription": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government? ",
         "QuestionNumber": 21,
         "Answers": [
             {
@@ -462,7 +462,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who does a U.S. Senator represent? Choose one:",
+        "QuestionDescription": "Who does a U.S. Senator represent? ",
         "QuestionNumber": 22,
         "Answers": [
             {
@@ -484,7 +484,7 @@
         ]
     },
     {
-        "QuestionDescription": "How old do citizens have to be to vote for President? Choose one:",
+        "QuestionDescription": "How old do citizens have to be to vote for President? ",
         "QuestionNumber": 23,
         "Answers": [
             {
@@ -506,7 +506,7 @@
         ]
     },
     {
-        "QuestionDescription": "What happened at the Constitutional Convention? Choose one:",
+        "QuestionDescription": "What happened at the Constitutional Convention? ",
         "QuestionNumber": 24,
         "Answers": [
             {
@@ -528,7 +528,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is one thing Benjamin Franklin is famous for? Choose one:",
+        "QuestionDescription": "What is one thing Benjamin Franklin is famous for? ",
         "QuestionNumber": 25,
         "Answers": [
             {
@@ -550,7 +550,7 @@
         ]
     },
     {
-        "QuestionDescription": "What major event happened on September 11, 2001, in the United States? Choose one:",
+        "QuestionDescription": "What major event happened on September 11, 2001, in the United States? ",
         "QuestionNumber": 26,
         "Answers": [
             {
@@ -572,7 +572,7 @@
         ]
     },
     {
-        "QuestionDescription": "What does the judicial branch do? Choose one:",
+        "QuestionDescription": "What does the judicial branch do? ",
         "QuestionNumber": 27,
         "Answers": [
             {
@@ -594,7 +594,7 @@
         ]
     },
     {
-        "QuestionDescription": "What do we show loyalty to when we say the Pledge of Allegiance? Choose one:",
+        "QuestionDescription": "What do we show loyalty to when we say the Pledge of Allegiance? ",
         "QuestionNumber": 28,
         "Answers": [
             {
@@ -616,7 +616,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who wrote the Declaration of Independence? Choose one:",
+        "QuestionDescription": "Who wrote the Declaration of Independence? ",
         "QuestionNumber": 29,
         "Answers": [
             {
@@ -638,7 +638,7 @@
         ]
     },
     {
-        "QuestionDescription": "What are two ways that Americans can participate in their democracy? Choose one:",
+        "QuestionDescription": "What are two ways that Americans can participate in their democracy? ",
         "QuestionNumber": 30,
         "Answers": [
             {
@@ -660,7 +660,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who signs bills to become laws? Choose one:",
+        "QuestionDescription": "Who signs bills to become laws? ",
         "QuestionNumber": 31,
         "Answers": [
             {
@@ -682,7 +682,7 @@
         ]
     },
     {
-        "QuestionDescription": "The House of Representatives has how many voting members? Choose one:",
+        "QuestionDescription": "The House of Representatives has how many voting members? ",
         "QuestionNumber": 32,
         "Answers": [
             {
@@ -704,7 +704,7 @@
         ]
     },
     {
-        "QuestionDescription": "Why do some states have more Representatives than other states? Choose one:",
+        "QuestionDescription": "Why do some states have more Representatives than other states? ",
         "QuestionNumber": 33,
         "Answers": [
             {
@@ -730,7 +730,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is an amendment? Choose one:",
+        "QuestionDescription": "What is an amendment? ",
         "QuestionNumber": 34,
         "Answers": [
             {
@@ -752,7 +752,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is one responsibility that is only for United States citizens? Choose one:",
+        "QuestionDescription": "What is one responsibility that is only for United States citizens? ",
         "QuestionNumber": 35,
         "Answers": [
             {
@@ -774,7 +774,7 @@
         ]
     },
     {
-        "QuestionDescription": "Why does the flag have 13 stripes? Choose one:",
+        "QuestionDescription": "Why does the flag have 13 stripes? ",
         "QuestionNumber": 36,
         "Answers": [
             {
@@ -796,7 +796,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is the economic system in the United States? Choose one:",
+        "QuestionDescription": "What is the economic system in the United States? ",
         "QuestionNumber": 37,
         "Answers": [
             {
@@ -818,7 +818,7 @@
         ]
     },
     {
-        "QuestionDescription": "When do we celebrate Independence Day? Choose one:",
+        "QuestionDescription": "When do we celebrate Independence Day? ",
         "QuestionNumber": 38,
         "Answers": [
             {
@@ -840,7 +840,7 @@
         ]
     },
     {
-        "QuestionDescription": "What are the two parts of the U.S. Congress? Choose one:",
+        "QuestionDescription": "What are the two parts of the U.S. Congress? ",
         "QuestionNumber": 39,
         "Answers": [
             {
@@ -862,7 +862,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is the supreme law of the land? Choose one:",
+        "QuestionDescription": "What is the supreme law of the land? ",
         "QuestionNumber": 40,
         "Answers": [
             {
@@ -884,7 +884,7 @@
         ]
     },
     {
-        "QuestionDescription": "We elect a U.S. Representative for how many years? Choose one:",
+        "QuestionDescription": "We elect a U.S. Representative for how many years? ",
         "QuestionNumber": 41,
         "Answers": [
             {
@@ -906,7 +906,7 @@
         ]
     },
     {
-        "QuestionDescription": "What are two rights in the Declaration of Independence? Choose one:",
+        "QuestionDescription": "What are two rights in the Declaration of Independence? ",
         "QuestionNumber": 42,
         "Answers": [
             {
@@ -928,7 +928,7 @@
         ]
     },
     {
-        "QuestionDescription": "What did the Declaration of Independence do? Choose one:",
+        "QuestionDescription": "What did the Declaration of Independence do? ",
         "QuestionNumber": 43,
         "Answers": [
             {
@@ -950,7 +950,7 @@
         ]
     },
     {
-        "QuestionDescription": "What is one right or freedom granted by the First Amendment? Choose one:",
+        "QuestionDescription": "What is one right or freedom granted by the First Amendment? ",
         "QuestionNumber": 44,
         "Answers": [
             {
@@ -972,7 +972,7 @@
         ]
     },
     {
-        "QuestionDescription": "What did the Emancipation Proclamation do? Choose one:",
+        "QuestionDescription": "What did the Emancipation Proclamation do? ",
         "QuestionNumber": 45,
         "Answers": [
             {
@@ -1016,7 +1016,7 @@
         ]
     },
     {
-        "QuestionDescription": "Who was the first President? Choose one:",
+        "QuestionDescription": "Who was the first President? ",
         "QuestionNumber": 47,
         "Answers": [
             {
@@ -1038,7 +1038,7 @@
         ]
     },
     {
-        "QuestionDescription":"Name one branch or part of the government. Choose one:",
+        "QuestionDescription":"Name one branch or part of the government. ",
         "QuestionNumber": 48,
         "Answers": [
             {
